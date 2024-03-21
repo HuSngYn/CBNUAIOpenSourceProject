@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FourButtons</string>
+    <string name="strBtn1">충북대학교 홈페이지 열기</string>
+    <string name="strBtn2">119 전화하기</string>
+    <string name="strBtn3">갤러리 열기</string>
+    <string name="strBtn4">끝내기</string>
+    <string name="strID">2020069052 윤후성</string>
+</resources>
